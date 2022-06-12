@@ -1,4 +1,4 @@
 Hi, I’m @viniciuskegler.
-I’m interested in python, but have to learn some other languages (java) along the way.
-I’m currently learning python and java.
-How to reach me: through my email: vinileet26@gmail.com
+I’m in college for System development currently studying Java.
+I am also an intern working with Java and Angular, but have messed around with Python in the past.
+How to reach me: through my email: vinikegler@gmail.com.
