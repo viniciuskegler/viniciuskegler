@@ -1,7 +1,7 @@
 ### Hi, I’m Vinícius Kegler! 
 
 - 💼 Junior Software Developer
-- 📚 Anhanguera Educational - System Analysis and Development
+- 📚 Graduated in System Analysis and Development
 
 I recently graduated in System Analysis and Development
 I am a junior developer working with Java, Angular, SQL and Android.
