@@ -6,11 +6,6 @@
 I recently graduated in System Analysis and Development
 I am a junior developer working with Java, Angular, SQL and Android.
 
-<div align="center">
-  <a href="https://github.com/viniciuskegler">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuskegler&show_icons=true&theme=dark"/>
-</div>
-
 ##
 
 <div>
