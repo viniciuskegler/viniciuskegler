@@ -4,7 +4,7 @@
 - 📚 Graduated in System Analysis and Development
 
 I recently graduated in System Analysis and Development
-I am a junior developer working with Java, Angular, SQL and Android.
+I am a junior developer working with Java, Angular and PSQL.
 
 ##
 
